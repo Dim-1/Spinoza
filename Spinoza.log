@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.21)  21 NOV 2023 22:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.21)  23 NOV 2023 23:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -91,40 +91,50 @@ st/fonts/enc/dvips/cm-super/cm-super-t1.enc}]) (./capitoli/vita.tex [2
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 13.
+(Font)              <10.95> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 13.
+(Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
+(Font)              <6> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 13.
+(Font)              <5> on input line 10.
  [3
 
 ]) (./capitoli/pensiero.tex [4]
-[5]) [6
+[5]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <24.88> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+ [6
 
-] (./Spinoza.aux) ) 
+]) [7] (./Spinoza.aux) ) 
 Here is how much of TeX's memory you used:
- 2146 strings out of 476041
- 34436 string characters out of 5793173
+ 2164 strings out of 476041
+ 34721 string characters out of 5793173
  1858388 words of memory out of 6000000
- 22622 multiletter control sequences out of 15000+600000
- 523927 words of font info for 55 fonts, out of 8000000 for 9000
+ 22638 multiletter control sequences out of 15000+600000
+ 527968 words of font info for 67 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  40i,8n,52p,1496b,282s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/s
-fbx1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx2488
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/cm-super/sfrm2074.pfb>
-Output written on Spinoza.pdf (6 pages, 129724 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/cm-su
+per/sfbx1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfb
+x2488.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0700.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/cm-super/sfrm2074.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/cm-super/sfti1200.pfb>
+Output written on Spinoza.pdf (7 pages, 191687 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 79 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
