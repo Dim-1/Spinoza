@@ -1,0 +1,16 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{\numberline {1}Vita}{3}{}%
+\contentsline {chapter}{\numberline {2}II pensiero di Spinoza}{6}{}%
+\contentsline {subparagraph}{La libertà:}{6}{}%
+\contentsline {subparagraph}{Perché il popolo è irrazionale e si vanta della propria schiavitù?}{6}{}%
+\contentsline {subparagraph}{Il corpo:}{6}{}%
+\contentsline {subparagraph}{Conatus:}{7}{}%
+\contentsline {subparagraph}{La volizione non esiste:}{7}{}%
+\contentsline {subparagraph}{Il bene non esiste:}{8}{}%
+\contentsline {subparagraph}{L'etica sostituisce la morale:}{8}{}%
+\contentsline {subparagraph}{La religione è superstizione:}{9}{}%
+\contentsline {subparagraph}{Ancora sulla libertà:}{9}{}%
+\contentsline {subparagraph}{Deus sive natura:}{9}{}%
+\contentsline {chapter}{\numberline {3}Ethica more geometrico demonstrata}{11}{}%
+\contentsline {section}{\numberline {3.1}Prima parte}{11}{}%
