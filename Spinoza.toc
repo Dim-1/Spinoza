@@ -1,19 +1,20 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
-\contentsline {chapter}{\numberline {1}Vita}{3}{}%
-\contentsline {chapter}{\numberline {2}II pensiero di Spinoza}{6}{}%
-\contentsline {subparagraph}{La libertà:}{6}{}%
-\contentsline {subparagraph}{Perché il popolo è irrazionale e si vanta della propria schiavitù?}{6}{}%
-\contentsline {subparagraph}{Il corpo:}{6}{}%
-\contentsline {subparagraph}{Conatus:}{7}{}%
-\contentsline {subparagraph}{La volizione non esiste:}{7}{}%
-\contentsline {subparagraph}{Il bene non esiste:}{8}{}%
-\contentsline {subparagraph}{L'etica sostituisce la morale:}{8}{}%
-\contentsline {subparagraph}{La religione è superstizione:}{9}{}%
-\contentsline {subparagraph}{Ancora sulla libertà:}{9}{}%
-\contentsline {subparagraph}{Deus sive natura:}{10}{}%
-\contentsline {chapter}{\numberline {3}Etica}{11}{}%
-\contentsline {section}{\numberline {3.1}Prima parte - Dio}{12}{}%
-\contentsline {section}{\numberline {3.2}Seconda parte - La mente umana}{20}{}%
-\contentsline {section}{\numberline {3.3}Gli affetti}{26}{}%
-\contentsline {section}{\numberline {3.4}La schiavitù umana}{33}{}%
+\vspace {-\cftbeforepartskip }
+\contentsline {chapter}{\numberline {1}{Vita}}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}{II pensiero di Spinoza}}{5}{chapter.2}%
+\contentsline {subparagraph}{{La libertà:}}{5}{subparagraph*.1}%
+\contentsline {subparagraph}{{Perché il popolo è irrazionale e si vanta della propria schiavitù?}}{5}{subparagraph*.2}%
+\contentsline {subparagraph}{{Il corpo:}}{5}{subparagraph*.3}%
+\contentsline {subparagraph}{{Conatus:}}{6}{subparagraph*.4}%
+\contentsline {subparagraph}{{La volizione non esiste:}}{6}{subparagraph*.5}%
+\contentsline {subparagraph}{{Il bene non esiste:}}{7}{subparagraph*.6}%
+\contentsline {subparagraph}{{L'etica sostituisce la morale:}}{7}{subparagraph*.7}%
+\contentsline {subparagraph}{{La religione è superstizione:}}{7}{subparagraph*.8}%
+\contentsline {subparagraph}{{Ancora sulla libertà:}}{8}{subparagraph*.9}%
+\contentsline {subparagraph}{{Deus sive natura:}}{8}{subparagraph*.10}%
+\contentsline {chapter}{\numberline {3}{Etica}}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}{Prima parte - Dio}}{11}{section.3.1}%
+\contentsline {section}{\numberline {3.2}{Seconda parte - La mente umana}}{18}{section.3.2}%
+\contentsline {section}{\numberline {3.3}{Gli affetti}}{24}{section.3.3}%
+\contentsline {section}{\numberline {3.4}{La schiavitù umana}}{31}{section.3.4}%
