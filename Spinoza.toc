@@ -12,8 +12,8 @@
 \contentsline {subparagraph}{La religione è superstizione:}{9}{}%
 \contentsline {subparagraph}{Ancora sulla libertà:}{9}{}%
 \contentsline {subparagraph}{Deus sive natura:}{10}{}%
-\contentsline {chapter}{\numberline {3}Ethica more geometrico demonstrata}{11}{}%
+\contentsline {chapter}{\numberline {3}Etica}{11}{}%
 \contentsline {section}{\numberline {3.1}Prima parte - Dio}{12}{}%
 \contentsline {section}{\numberline {3.2}Seconda parte - La mente umana}{20}{}%
-\contentsline {section}{\numberline {3.3}Terza parte - Origine e natura degli affetti}{26}{}%
-\contentsline {section}{\numberline {3.4}Quarta parte - La schiavitù umana, ossia le forze degli affetti}{33}{}%
+\contentsline {section}{\numberline {3.3}Gli affetti}{26}{}%
+\contentsline {section}{\numberline {3.4}La schiavitù umana}{33}{}%
