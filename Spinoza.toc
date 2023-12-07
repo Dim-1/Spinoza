@@ -3,16 +3,16 @@
 \vspace {-\cftbeforepartskip }
 \contentsline {chapter}{\numberline {1}{Vita}}{3}{chapter.1}%
 \contentsline {chapter}{\numberline {2}{II pensiero di Spinoza}}{5}{chapter.2}%
-\contentsline {subparagraph}{{La libertà:}}{5}{subparagraph*.1}%
+\contentsline {subparagraph}{{La libertà.}}{5}{subparagraph*.1}%
 \contentsline {subparagraph}{{Perché il popolo è irrazionale e si vanta della propria schiavitù?}}{5}{subparagraph*.2}%
-\contentsline {subparagraph}{{Il corpo:}}{5}{subparagraph*.3}%
-\contentsline {subparagraph}{{Conatus:}}{6}{subparagraph*.4}%
-\contentsline {subparagraph}{{La volizione non esiste:}}{6}{subparagraph*.5}%
-\contentsline {subparagraph}{{Il bene non esiste:}}{7}{subparagraph*.6}%
-\contentsline {subparagraph}{{L'etica sostituisce la morale:}}{7}{subparagraph*.7}%
-\contentsline {subparagraph}{{La religione è superstizione:}}{7}{subparagraph*.8}%
-\contentsline {subparagraph}{{Ancora sulla libertà:}}{8}{subparagraph*.9}%
-\contentsline {subparagraph}{{Deus sive natura:}}{8}{subparagraph*.10}%
+\contentsline {subparagraph}{{Il corpo.}}{5}{subparagraph*.3}%
+\contentsline {subparagraph}{{Conatus.}}{6}{subparagraph*.4}%
+\contentsline {subparagraph}{{La volizione non esiste.}}{6}{subparagraph*.5}%
+\contentsline {subparagraph}{{Il bene non esiste.}}{7}{subparagraph*.6}%
+\contentsline {subparagraph}{{L'etica sostituisce la morale.}}{7}{subparagraph*.7}%
+\contentsline {subparagraph}{{La religione è superstizione.}}{7}{subparagraph*.8}%
+\contentsline {subparagraph}{{Ancora sulla libertà.}}{8}{subparagraph*.9}%
+\contentsline {subparagraph}{{Deus sive natura.}}{8}{subparagraph*.10}%
 \contentsline {chapter}{\numberline {3}{Trattato sull'emendazione dell'intelletto}}{10}{chapter.3}%
 \contentsline {chapter}{\numberline {4}{Etica}}{11}{chapter.4}%
 \contentsline {section}{\numberline {4.1}{Dio}}{12}{section.4.1}%
@@ -20,4 +20,4 @@
 \contentsline {section}{\numberline {4.3}{Gli affetti}}{25}{section.4.3}%
 \contentsline {section}{\numberline {4.4}{La schiavitù umana}}{32}{section.4.4}%
 \contentsline {section}{\numberline {4.5}{La libertà umana}}{43}{section.4.5}%
-\contentsline {chapter}{\numberline {5}{Trattato teologico politico}}{44}{chapter.5}%
+\contentsline {chapter}{\numberline {5}{Trattato teologico politico}}{45}{chapter.5}%
