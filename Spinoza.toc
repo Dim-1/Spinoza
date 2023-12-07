@@ -18,3 +18,4 @@
 \contentsline {section}{\numberline {3.2}{Seconda parte - La mente umana}}{18}{section.3.2}%
 \contentsline {section}{\numberline {3.3}{Gli affetti}}{24}{section.3.3}%
 \contentsline {section}{\numberline {3.4}{La schiavitù umana}}{31}{section.3.4}%
+\contentsline {section}{\numberline {3.5}{La libertà umana}}{42}{section.3.5}%
