@@ -20,4 +20,4 @@
 \contentsline {section}{\numberline {4.3}{Gli affetti}}{25}{section.4.3}%
 \contentsline {section}{\numberline {4.4}{La schiavitù umana}}{32}{section.4.4}%
 \contentsline {section}{\numberline {4.5}{La libertà umana}}{43}{section.4.5}%
-\contentsline {chapter}{\numberline {5}{Trattato teologico politico}}{45}{chapter.5}%
+\contentsline {chapter}{\numberline {5}{Trattato teologico politico}}{49}{chapter.5}%
