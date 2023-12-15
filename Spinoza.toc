@@ -21,4 +21,4 @@
 \contentsline {section}{\numberline {4.4}{La schiavitù umana}}{36}{section.4.4}%
 \contentsline {section}{\numberline {4.5}{La libertà umana}}{47}{section.4.5}%
 \contentsline {chapter}{\numberline {5}{Trattato teologico politico}}{53}{chapter.5}%
-\contentsline {chapter}{\numberline {6}{Spinoza contemporaneo}}{54}{chapter.6}%
+\contentsline {chapter}{\numberline {6}{Spinoza contemporaneo}}{55}{chapter.6}%
