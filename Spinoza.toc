@@ -22,4 +22,4 @@
 \contentsline {section}{\numberline {4.5}{La libertà umana}}{47}{section.4.5}%
 \contentsline {chapter}{\numberline {5}{Trattato teologico politico}}{53}{chapter.5}%
 \contentsline {section}{\numberline {5.1}{Parte religiosa}}{53}{section.5.1}%
-\contentsline {chapter}{\numberline {6}{Spinoza contemporaneo}}{61}{chapter.6}%
+\contentsline {chapter}{\numberline {6}{Spinoza contemporaneo}}{62}{chapter.6}%
