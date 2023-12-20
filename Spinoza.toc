@@ -23,4 +23,4 @@
 \contentsline {chapter}{\numberline {5}{Trattato teologico politico}}{53}{chapter.5}%
 \contentsline {section}{\numberline {5.1}{Parte religiosa}}{53}{section.5.1}%
 \contentsline {section}{\numberline {5.2}{Parte politica}}{62}{section.5.2}%
-\contentsline {chapter}{\numberline {6}{Spinoza contemporaneo}}{63}{chapter.6}%
+\contentsline {chapter}{\numberline {6}{Spinoza contemporaneo}}{64}{chapter.6}%
