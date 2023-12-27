@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.21)  27 DEC 2023 21:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.21)  27 DEC 2023 21:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Spinoza.tex
-(./Spinoza.tex
+**Spinoza_a5_b5.tex
+(./Spinoza_a5_b5.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
@@ -179,12 +179,12 @@ Already applied: [0000/00/00] Usage of raw or classic option list on input line
 ))
 \ta@bcor=\skip51
 \ta@div=\count268
-Package typearea Info: You've used standard option `a4paper'.
+Package typearea Info: You've used standard option `b5paper'.
 (typearea)             This is correct!
-(typearea)             Internally I'm using `paper=a4'.
+(typearea)             Internally I'm using `paper=b5'.
 (typearea)             If you'd like to set the option with \KOMAoptions,
-(typearea)             you'd have to use `paper=a4' there
-(typearea)             instead of `a4paper', too.
+(typearea)             you'd have to use `paper=b5' there
+(typearea)             instead of `b5paper', too.
 Package typearea Info: You've used standard option `oneside'.
 (typearea)             This is correct!
 (typearea)             Internally I'm using `twoside=false'.
@@ -195,23 +195,27 @@ Package typearea Info: You've used standard option `oneside'.
 \ta@vblk=\skip53
 \ta@temp=\skip54
 \footheight=\skip55
+Package typearea Info: With paper sizes other than (almost) `A4' predefined
+(typearea)             DIV values do not exist. Using DIV calculation for good
+(typearea)             line width (unless using `version=3.24` or prior).
+
+DIV calculation for typearea with good linewidth.
 LaTeX Font Info:    Trying to load font information for T1+pplj on input line 1
 767.
-
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pplj.fd
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 12
+(typearea)             DIV  = 21
 (typearea)             BCOR = 0.0pt
-(typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 448.13095pt
+(typearea)             \paperwidth      = 500.76855pt
+(typearea)              \textwidth      = 429.23021pt
 (typearea)              DIV departure   = 0%
-(typearea)              \evensidemargin = 2.4185pt
-(typearea)              \oddsidemargin  = 2.4185pt
-(typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 544.87628pt
-(typearea)              \topmargin      = -1.84941pt
+(typearea)              \evensidemargin = -36.50082pt
+(typearea)              \oddsidemargin  = -36.50082pt
+(typearea)             \paperheight     = 711.31897pt
+(typearea)              \textheight     = 529.65125pt
+(typearea)              \topmargin      = -38.39766pt
 (typearea)              \headheight     = 19.0313pt
 (typearea)              \headsep        = 22.83755pt
 (typearea)              \topskip        = 12.0pt
@@ -219,23 +223,23 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \baselineskip   = 15.22504pt
 (typearea)              on input line 1767.
 )
-Package classicthesis Info: A4 paper, Palatino or other on input line 251.
+Package classicthesis Info: B5 paper, Palatino or other on input line 236.
 Package typearea Info: These are the values describing the layout:
 (typearea)             DIV  = areaset
 (typearea)             BCOR = 0.0pt
-(typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 336.0pt
-(typearea)              \evensidemargin = 58.48398pt
-(typearea)              \oddsidemargin  = 58.48398pt
-(typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 656.87482pt
-(typearea)              \topmargin      = -40.58768pt
+(typearea)             \paperwidth      = 500.76855pt
+(typearea)              \textwidth      = 311.0pt
+(typearea)              \evensidemargin = 22.61427pt
+(typearea)              \oddsidemargin  = 22.61427pt
+(typearea)             \paperheight     = 711.31897pt
+(typearea)              \textheight     = 551.87482pt
+(typearea)              \topmargin      = -50.16367pt
 (typearea)              \headheight     = 17.0pt
 (typearea)              \headsep        = 22.83755pt
 (typearea)              \topskip        = 12.0pt
 (typearea)              \footskip       = 53.28763pt
 (typearea)              \baselineskip   = 15.22504pt
-(typearea)              on input line 251.
+(typearea)              on input line 236.
 
 (/usr/share/texlive/texmf-dist/tex/latex/mparhack/mparhack.sty
 Package: mparhack 2021-05-02 v1.5 (T. Sgouros and S. Ulrich)
@@ -515,56 +519,13 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 679.
 Package hyperref Info: Option `linktocpage' set `true' on input line 679.
 Package hyperref Info: Option `breaklinks' set `true' on input line 679.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/arsclassica/arsclassica.sty
-Package: arsclassica 2017/10/31
-Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = areaset
-(typearea)             BCOR = 0.0pt
-(typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 370.0pt
-(typearea)              \evensidemargin = 41.48396pt
-(typearea)              \oddsidemargin  = 41.48396pt
-(typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 690.87482pt
-(typearea)              \topmargin      = -51.92102pt
-(typearea)              \headheight     = 17.0pt
-(typearea)              \headsep        = 22.83755pt
-(typearea)              \topskip        = 12.0pt
-(typearea)              \footskip       = 53.28763pt
-(typearea)              \baselineskip   = 15.22504pt
-(typearea)              on input line 17.
-LaTeX Info: Redefining \spacedallcaps on input line 48.
-LaTeX Info: Redefining \spacedlowsmallcaps on input line 50.
-
-
-Package scrlayer-scrpage Warning: replacing deprecated \clearscrplain by
-(scrlayer-scrpage)                \clearplainofpairofpagestyles on input line 1
-51.
-
-Package hyperref Info: Option `colorlinks' set `true' on input line 184.
-Package hyperref Info: Option `linktocpage' set `true' on input line 184.
-Package hyperref Info: Option `breaklinks' set `true' on input line 184.
-Package hyperref Info: Option `pageanchor' set `true' on input line 184.
-Package hyperref Info: Option `plainpages' set `false' on input line 184.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 184.
-
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 184.
-Package hyperref Info: Option `hypertexnames' set `true' on input line 184.
-
-Package hyperref Warning: Option `hyperfootnotes' has already been used,
-(hyperref)                setting the option has no effect on input line 184.
-
-
-Package hyperref Warning: Option `pdfpagelabels' has already been used,
-(hyperref)                setting the option has no effect on input line 184.
-
-) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count287
 \l__pdf_internal_box=\box53
 )
-(./Spinoza.aux)
-\openout1 = `Spinoza.aux'.
+(./Spinoza_a5_b5.aux)
+\openout1 = `Spinoza_a5_b5.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
@@ -611,7 +572,10 @@ Package microtype Info: Applying patch `verbatim' on input line 9.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: No font expansion.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 9.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -622,35 +586,37 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 9.
- (./Spinoza.out) (./Spinoza.out)
+
+(./Spinoza_a5_b5.out) (./Spinoza_a5_b5.out)
 \@outlinefile=\write3
-\openout3 = `Spinoza.out'.
+\openout3 = `Spinoza_a5_b5.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-13.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
+14.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-13.
+14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-13.
+14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-13.
+14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-13.
+14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -664,16 +630,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
 st/fonts/enc/dvips/base/8r.enc}] (./capitoli/introduzione.tex
-LaTeX Font Info:    Trying to load font information for T1+iwona on input line 
-2.
-
-(/usr/share/texlive/texmf-dist/tex/latex/iwona/t1iwona.fd
-File: t1iwona.fd 2008/07/22 v0.995 font definition file for T1/iwona (MW)
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `iwona' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
 7.
 
@@ -687,98 +643,117 @@ been already used, duplicate ignored
 l.15 \newpage
               [1
 
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc}]) (./capitol
-i/indice.tex (./Spinoza.toc
+]) (./capitoli/indice.tex (./Spinoza_a5_b5.toc
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 )
 \tf@toc=\write4
-\openout4 = `Spinoza.toc'.
+\openout4 = `Spinoza_a5_b5.toc'.
 
-) (./capitoli/vita.tex
+)
+(./capitoli/vita.tex
 Capitolo 1.
 [2
 
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/iwona/ec-iwona-sc.enc}]
-[3
+] [3
 
-] [4] [5]) (./capitoli/pensiero.tex
+] [4] [5] [6]) (./capitoli/pensiero.tex
 Capitolo 2.
-[6
+[7
 
-] [7]
-Overfull \hbox (8.39597pt too wide) in paragraph at lines 13--17
-\T1/pplj/m/n/12 Le tra-di-zio-na-li no-zio-ni di bene-male, ordine-confusione, 
-merito-peccato
- []
-
-[8] [9] [10]) (./capitoli/emendamento.tex
+] [8] [9] [10] [11] [12] [13]) (./capitoli/emendamento.tex
 Capitolo 3.
-[11
-
-] [12] [13]) (./capitoli/etica.tex
-Capitolo 4.
 [14
 
-]
+] [15] [16] [17] [18]) (./capitoli/etica.tex
+Capitolo 4.
+[19
+
+] [20]
 Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/iwona/m/sc/17.28'.
+(microtype)             in font `T1/pplj/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/iwona/m/sc/12'.
-(microtype)             Ignoring protrusion settings for this character.
- [15] [16]
+ [21] [22] [23]
 
 LaTeX Font Warning: Font shape `T1/pplj/b/sc' undefined
 (Font)              using `T1/pplj/b/n' instead on input line 121.
 
-[17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31]
-[32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
-[47] [48] [49] [50] [51] [52]) (./capitoli/teologico.tex
+[24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38]
+[39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53]
+[54] [55] [56]
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 5
+71.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+[57{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+[58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72]
+[73] [74] [75]) (./capitoli/teologico.tex
 Capitolo 5.
-[53
+[76
 
-] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67])
-(./capitoli/contemporaneo.tex
+] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]
+[91] [92] [93] [94] [95] [96]) (./capitoli/contemporaneo.tex
 Capitolo 6.
-[68
+[97
 
-] [69] [70] [71] [72]) (./capitoli/bibliografia.tex
-Underfull \hbox (badness 1436) in paragraph at lines 15--16
-\T1/pplj/m/n/12 che \T1/pplj/m/it/12 Eti-ca\T1/pplj/m/n/12 , a cu-ra di Giu-lio
- Tor-tel-lo, ope-ra gra-tui-ta on-li-ne:
+] [98] [99] [100] [101] [102]) (./capitoli/bibliografia.tex
+Underfull \hbox (badness 1237) in paragraph at lines 6--7
+[]\T1/pplj/m/n/12 (+20) Deleuze, Gil-les, \T1/pplj/m/it/12 (+20) Spi-no-za Fi-l
+o-so-fia pra-ti-ca\T1/pplj/m/n/12 (+20) , Or-tho-tes
  []
 
-[73
 
-]) (./Spinoza.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+[]\T1/pplj/m/n/12 (+20) Spinoza, Ba-ruch, \T1/pplj/m/it/12 (+20) Ethi-ca mo-re 
+geo-me-tri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+\T1/pplj/m/it/12 (+20) co de-mon-stra-ta \T1/pplj/m/n/12 (+20) det-ta an-che \T
+1/pplj/m/it/12 (+20) Eti-ca\T1/pplj/m/n/12 (+20) , a cu-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+\T1/pplj/m/n/12 (+20) di Giu-lio Tor-tel-lo, ope-ra gra-tui-ta on-li-ne:
+ []
+
+[103
+
+]) (./Spinoza_a5_b5.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `Spinoza.out' has not changed.
-(rerunfilecheck)             Checksum: 0F10078CF6D41F7C1BB1ACF88D71D982;1985.
+Package rerunfilecheck Info: File `Spinoza_a5_b5.out' has not changed.
+(rerunfilecheck)             Checksum: BD7E0C428D780732F703D9D4A9852F43;1752.
  ) 
 Here is how much of TeX's memory you used:
- 17369 strings out of 476041
- 314293 string characters out of 5793173
- 1892388 words of memory out of 6000000
- 37382 multiletter control sequences out of 15000+600000
- 617607 words of font info for 162 fonts, out of 8000000 for 9000
+ 18512 strings out of 476041
+ 323770 string characters out of 5793173
+ 1895388 words of memory out of 6000000
+ 37299 multiletter control sequences out of 15000+600000
+ 659299 words of font info for 1037 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 123i,24n,120p,1571b,854s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/nowacki/iwona/iwonar.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
-rw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/
-uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Spinoza.pdf (74 pages, 313470 bytes).
+ 123i,23n,120p,1577b,739s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/u
+plr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Spinoza_a5_b5.pdf (104 pages, 325978 bytes).
 PDF statistics:
- 495 PDF objects out of 1000 (max. 8388607)
- 396 compressed objects within 4 object streams
- 118 named destinations out of 1000 (max. 500000)
- 24681 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 618 PDF objects out of 1000 (max. 8388607)
+ 491 compressed objects within 5 object streams
+ 148 named destinations out of 1000 (max. 500000)
+ 160873 words of extra memory for PDF output out of 184870 (max. 10000000)
 

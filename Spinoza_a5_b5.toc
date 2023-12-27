@@ -1,0 +1,26 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\vspace {-\cftbeforepartskip }
+\contentsline {chapter}{\numberline {1}{Vita}}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}{II pensiero di Spinoza}}{7}{chapter.2}%
+\contentsline {subparagraph}{{La libertà.}}{7}{subparagraph*.1}%
+\contentsline {subparagraph}{{Perché il popolo è irrazionale e si vanta della propria schiavitù?}}{7}{subparagraph*.2}%
+\contentsline {subparagraph}{{Il corpo.}}{8}{subparagraph*.3}%
+\contentsline {subparagraph}{{Conatus.}}{8}{subparagraph*.4}%
+\contentsline {subparagraph}{{La volizione non esiste.}}{9}{subparagraph*.5}%
+\contentsline {subparagraph}{{Il bene non esiste.}}{10}{subparagraph*.6}%
+\contentsline {subparagraph}{{L'etica sostituisce la morale.}}{10}{subparagraph*.7}%
+\contentsline {subparagraph}{{La religione è superstizione.}}{11}{subparagraph*.8}%
+\contentsline {subparagraph}{{Ancora sulla libertà.}}{12}{subparagraph*.9}%
+\contentsline {subparagraph}{{Deus sive natura.}}{12}{subparagraph*.10}%
+\contentsline {chapter}{\numberline {3}{Trattato sull'emendazione dell'intelletto}}{14}{chapter.3}%
+\contentsline {chapter}{\numberline {4}{Etica}}{19}{chapter.4}%
+\contentsline {section}{\numberline {4.1}{Dio}}{21}{section.4.1}%
+\contentsline {section}{\numberline {4.2}{La mente umana}}{32}{section.4.2}%
+\contentsline {section}{\numberline {4.3}{Gli affetti}}{41}{section.4.3}%
+\contentsline {section}{\numberline {4.4}{La schiavitù umana}}{51}{section.4.4}%
+\contentsline {section}{\numberline {4.5}{La libertà umana}}{67}{section.4.5}%
+\contentsline {chapter}{\numberline {5}{Trattato teologico politico}}{76}{chapter.5}%
+\contentsline {section}{\numberline {5.1}{Parte religiosa}}{77}{section.5.1}%
+\contentsline {section}{\numberline {5.2}{Parte politica}}{90}{section.5.2}%
+\contentsline {chapter}{\numberline {6}{Spinoza contemporaneo}}{97}{chapter.6}%
